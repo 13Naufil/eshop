@@ -1,0 +1,29 @@
+@import url("//fast.fonts.net/t/1.css?apiType=css&projectid=848b2ead-a786-4c1b-8432-3cb5a37e9cdf");
+@font-face {
+    font-family: 'bb-if';
+    font-style:  normal;
+    font-weight: normal;
+    src:         url(../fonts/icons/bb-if.eot);
+    src:         url(../fonts/icons/bb-if.eot?#iefix) format("embedded-opentype"), url(../fonts/icons/bb-if.woff2) format("woff2"), url(../fonts/icons/bb-if.woff) format("woff"), url(../fonts/icons/bb-if.ttf) format("truetype"), url(http://www.beautybay.com/assets/core/fonts/icons/bb-if.svg#bb-if) format("svg")
+}
+@font-face {
+    font-family: 'Avenir Next W01';
+    font-style:  normal;
+    font-weight: 400;
+    src:         url(../fonts/avenir/2cd55546-ec00-4af9-aeca-4a3cd186da53.woff2) format("woff2"), url(../fonts/avenir/1e9892c0-6927-4412-9874-1b82801ba47a.woff) format("woff")
+}
+@font-face {
+    font-family: 'Avenir Next W01';
+    font-style:  normal;
+    font-weight: 500;
+    src:         url(../fonts/avenir/627fbb5a-3bae-4cd9-b617-2f923e29d55e.woff2) format("woff2"), url(../fonts/avenir/f26faddb-86cc-4477-a253-1e1287684336.woff) format("woff")
+}
+@font-face {
+    font-family: 'Avenir Next W01';
+    font-style:  normal;
+    font-weight: 700;
+    src:         url(../fonts/avenir/aad99a1f-7917-4dd6-bbb5-b07cedbff64f.woff2) format("woff2"), url(../fonts/avenir/91b50bbb-9aa1-4d54-9159-ec6f19d14a7c.woff) format("woff")
+}
+.cssnano {
+    font-family: 'bb-if', 'Avenir Next W01'
+}

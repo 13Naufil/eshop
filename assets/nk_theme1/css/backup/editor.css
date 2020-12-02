@@ -1,0 +1,8 @@
+@import "bootstrap.min.css";
+@import "style.css";
+
+.tab-content>.tab-pane
+, .collapse
+{
+    display: block !important;
+}
